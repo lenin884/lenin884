@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @lenin884
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# About this profile.
 
-<!---
-lenin884/lenin884 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, i'm **Eugene Osipov** - software engineer. I need this profile to learn something new, try different solutions and strengthen my current knowledge.
+My competencies is: 
+- RESTful API (Flask, Swagger, Nginx, Gunicorn)
+- Machine Learning (Clustering, Classification, Regression)
+- Neural Network (beginner)
+- Media preprocessing (FFmpeg, Celery, Flask, Nginx Rtmp Module)
+- CI/CD (gitlab-ci, docker, ansible)
+
+Current profile development plan
+- Bring to the end trader-bot
+- Start learning C++ (web-server and ML/DL algorithms)
+- Start learning DL (on python language)
+- 
